@@ -1,0 +1,35 @@
+\documentclass[a4paper, headinclude, footinclude, headsepline, 12pt, DIV=calc, BCOR5mm]{scrreprt}
+%... Kodierung, Eingabezeichensatz, Dokumentelemente ...
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage[babel,german=quotes]{csquotes}
+\usepackage{biblatex}
+\bibliography{references}
+\usepackage[ngerman]{babel}
+%... test ...
+\usepackage{paralist}
+\usepackage{graphicx}
+\usepackage{chemstyle}
+%... Schriftpackete und Befehle ...
+\pagestyle{headings}
+\pagenumbering{arabic}
+\usepackage{setspace}
+\onehalfspacing
+\typearea[5mm]{calc}
+\begin{document}
+\author{Simon Vogt}
+\title{Bachelor Thesis}
+\chapter*{Abstract}
+\chapter*{Zusammenfassung}
+\tableofcontents
+\chapter*{Nomenklatur}
+\listoffigures
+\listoftables
+\include{introduction}
+\include{theoreticalbackground}
+\include{experimental}
+\include{results}
+\include{discussion}
+\include{conclusions}
+\printbibliography
+\end{document}
