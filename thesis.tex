@@ -11,6 +11,7 @@
 \usepackage{graphicx}
 \usepackage{chemstyle}
 %... Schriftpackete und Befehle ...
+\usepackage{helvet}
 \pagestyle{headings}
 \pagenumbering{arabic}
 \usepackage{setspace}
@@ -19,17 +20,16 @@
 \begin{document}
 \author{Simon Vogt}
 \title{Bachelor Thesis}
-\chapter*{Abstract}
-\chapter*{Zusammenfassung}
+\include{abstract}
 \tableofcontents
-\chapter*{Nomenklatur}
-\listoffigures
-\listoftables
+\include{nomenclature}
 \include{introduction}
 \include{theoreticalbackground}
 \include{experimental}
 \include{results}
-\include{discussion}
-\include{conclusions}
+\include{summary}
+\appendix
+\listoffigures
+\listoftables
 \printbibliography
 \end{document}
