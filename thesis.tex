@@ -1,11 +1,11 @@
 \documentclass[a4paper, headinclude, footinclude, headsepline, 12pt, DIV=calc, BCOR5mm]{scrreprt}
 %... Kodierung, Eingabezeichensatz, Dokumentelemente ...
 \usepackage[T1]{fontenc}
-\usepackage[utf8]{inputenc}
+\usepackage[ansinew]{inputenc}
 \usepackage[babel,german=quotes]{csquotes}
-\usepackage{biblatex}
-\bibliography{references}
+\usepackage[backend=biber]{biblatex}
 \usepackage[ngerman]{babel}
+\bibliography{references}
 %... test ...
 \usepackage{paralist}
 \usepackage{graphicx}
@@ -21,6 +21,7 @@
 \author{Simon Vogt}
 \title{Bachelor Thesis}
 \include{abstract}
+\nocite{ohtani:photocatalysis}
 \tableofcontents
 \include{nomenclature}
 \include{introduction}
@@ -32,4 +33,5 @@
 \listoffigures
 \listoftables
 \printbibliography
+\include{statement}
 \end{document}

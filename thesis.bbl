@@ -1,0 +1,44 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 2.3 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \sortlist{entry}{nty}
+    \entry{ohtani:photocatalysis}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=92ed2d43a9bab94f4b02968a7277fbdc}{Ohtani}{O\bibinitperiod}{Bunsho}{B\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=92ed2d43a9bab94f4b02968a7277fbdc}{Ohtani}{O\bibinitperiod}{Bunsho}{B\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{92ed2d43a9bab94f4b02968a7277fbdc}
+      \strng{fullhash}{92ed2d43a9bab94f4b02968a7277fbdc}
+      \field{sortinit}{O}
+      \field{labeltitle}{Photocatalysis A to Z: What we know and what we do not know in a scientific sense}
+      \field{journaltitle}{Journal of Photochemistry and Photobiology C: Photochemistry Reviews}
+      \field{series}{11(4)}
+      \field{title}{Photocatalysis A to Z: What we know and what we do not know in a scientific sense}
+      \field{year}{2010}
+      \verb{url}
+      \verb http://hdl.handle.net/2115/47047
+      \endverb
+    \endentry
+  \endsortlist
+\endrefsection
+\endinput
+
