@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/W32TeX) (format=pdflatex 2014.6.3)  19 NOV 2014 18:14
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/W32TeX) (format=pdflatex 2014.6.3)  20 NOV 2014 17:45
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1109,7 +1109,7 @@ Kapitel 5.
  [9
 
 ]
-LaTeX Font Info:    Try loading font information for T1+cmtt on input line 35.
+LaTeX Font Info:    Try loading font information for T1+cmtt on input line 34.
 
 (d:/texlive/2013/texmf-dist/tex/latex/base/t1cmtt.fd
 File: t1cmtt.fd 1999/05/25 v2.5h Standard LaTeX font definitions
@@ -1131,10 +1131,10 @@ Package logreq Info: Writing requests to 'thesis.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 19898 strings out of 493308
- 387852 string characters out of 6141368
- 804151 words of memory out of 5000000
- 23010 multiletter control sequences out of 15000+600000
+ 19902 strings out of 493308
+ 387900 string characters out of 6141368
+ 804147 words of memory out of 5000000
+ 23014 multiletter control sequences out of 15000+600000
  17420 words of font info for 38 fonts, out of 8000000 for 9000
  961 hyphenation exceptions out of 8191
  56i,7n,52p,10446b,1576s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1144,7 +1144,7 @@ ts/type1/public/cm-super/sfcc1200.pfb><d:/texlive/2013/texmf-dist/fonts/type1/p
 ublic/cm-super/sfrm1200.pfb><d:/texlive/2013/texmf-dist/fonts/type1/public/cm-s
 uper/sfti1200.pfb><d:/texlive/2013/texmf-dist/fonts/type1/public/cm-super/sftt1
 200.pfb><d:/texlive/2013/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb>
-Output written on thesis.pdf (11 pages, 91667 bytes).
+Output written on thesis.pdf (11 pages, 87374 bytes).
 PDF statistics:
  62 PDF objects out of 1000 (max. 8388607)
  43 compressed objects within 1 object stream

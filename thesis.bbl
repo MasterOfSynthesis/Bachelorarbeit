@@ -19,7 +19,7 @@
 
 \refsection{0}
   \sortlist{entry}{nty}
-    \entry{ohtani:photocatalysis}{article}{}
+    \entry{ohtani:revisiting}{article}{}
       \name{labelname}{1}{}{%
         {{hash=92ed2d43a9bab94f4b02968a7277fbdc}{Ohtani}{O\bibinitperiod}{Bunsho}{B\bibinitperiod}{}{}{}{}}%
       }
@@ -29,13 +29,14 @@
       \strng{namehash}{92ed2d43a9bab94f4b02968a7277fbdc}
       \strng{fullhash}{92ed2d43a9bab94f4b02968a7277fbdc}
       \field{sortinit}{O}
-      \field{labeltitle}{Photocatalysis A to Z: What we know and what we do not know in a scientific sense}
-      \field{journaltitle}{Journal of Photochemistry and Photobiology C: Photochemistry Reviews}
-      \field{series}{11(4)}
-      \field{title}{Photocatalysis A to Z: What we know and what we do not know in a scientific sense}
-      \field{year}{2010}
-      \verb{url}
-      \verb http://hdl.handle.net/2115/47047
+      \field{labeltitle}{Revisiting the fundamental physical chemistry in heterogenous photocatalysis: its themodynamics and kinetics}
+      \field{journaltitle}{Phys. Chem. Chem. Phys.}
+      \field{series}{16}
+      \field{title}{Revisiting the fundamental physical chemistry in heterogenous photocatalysis: its themodynamics and kinetics}
+      \field{year}{2014}
+      \field{pages}{1788\bibrangedash 1797}
+      \verb{doi}
+      \verb 10.1039/c3cp53653j
       \endverb
     \endentry
   \endsortlist
